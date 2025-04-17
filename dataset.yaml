@@ -1,0 +1,5 @@
+train: /Users/victorberstrand/Desktop/UNI/CBS/AI and machine learning/Exam/Output_for_yolo/train/images
+val: /Users/victorberstrand/Desktop/UNI/CBS/AI and machine learning/Exam/Output_for_yolo/val/images
+
+nc: 1  # Number of classes (1 for the nested image)
+names: ['nested_image']  # Class names
